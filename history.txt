@@ -1,0 +1,11 @@
+Recent processed vehicles (circular history, max 10)
+1. ID:1014 Plate:PLATE114 Type:car Arrival:14
+2. ID:1015 Plate:PLATE115 Type:car Arrival:15
+3. ID:1019 Plate:PLATE119 Type:ambulance Arrival:19
+4. ID:1021 Plate:PLATE121 Type:ambulance Arrival:21
+5. ID:1024 Plate:PLATE124 Type:ambulance Arrival:24
+6. ID:1035 Plate:PLATE135 Type:ambulance Arrival:35
+7. ID:1039 Plate:PLATE139 Type:ambulance Arrival:39
+8. ID:2001 Plate:EMG001 Type:ambulance Arrival:200
+9. ID:2004 Plate:EMG002 Type:ambulance Arrival:203
+10. ID:1016 Plate:PLATE116 Type:car Arrival:16
