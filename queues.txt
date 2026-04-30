@@ -1,0 +1,5 @@
+Current intersection queues
+A: [ID:1017, truck] [ID:1018, truck] [ID:1020, car] [ID:1022, car] [ID:1023, car] [ID:1025, truck] [ID:1026, car] [ID:1027, car] [ID:1028, car] [ID:1029, truck] [ID:1030, truck] [ID:1031, truck] [ID:1032, car] [ID:1033, truck] [ID:1034, car] [ID:1036, car] [ID:1037, truck] [ID:1038, car] [ID:1040, truck] [ID:1041, truck] [ID:1042, car] [ID:1043, truck] [ID:1044, car] [ID:1045, car] [ID:1046, truck] [ID:1047, car] [ID:1048, truck] [ID:1049, car] [ID:2002, car] [ID:2003, truck] 
+B: (empty)
+C: (empty)
+D: (empty)
